@@ -3,6 +3,11 @@
 
 ## Installation Info:
 
+## BE WARNED, this is outdated (might update it soon)
+
+
+WARNING:
+> Do not use this with other client mods such as Better Discord/Vencord, etc. It may cause issues and require a re-install.
 ### Installation Method 1: (Recommended)
 Pick a theme (Will be named: Themename.js), copy it's contents and paste it into your discord console (CTRL + SHIFT + I) and hit enter. (Not sure how to access console? Scroll down.)
 
